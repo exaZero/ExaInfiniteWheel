@@ -1,4 +1,4 @@
-package com.exazero.demo
+package com.exazero.exainfinitewheel
 
 /**
  *   Created by jazcorra96 on 9/9/2020

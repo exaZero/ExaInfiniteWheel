@@ -1,4 +1,4 @@
-package com.exazero.demo
+package com.exazero.exainfinitewheel
 
 import android.animation.ValueAnimator
 import android.content.Context

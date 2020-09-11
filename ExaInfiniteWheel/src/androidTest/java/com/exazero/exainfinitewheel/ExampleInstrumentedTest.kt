@@ -1,4 +1,4 @@
-package com.exazero.demo
+package com.exazero.exainfinitewheel
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

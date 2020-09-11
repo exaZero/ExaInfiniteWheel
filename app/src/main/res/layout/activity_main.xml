@@ -7,7 +7,7 @@
     android:background="#888888"
     tools:context=".MainActivity">
 
-    <com.exazero.demo.ExaInfiniteWheel
+    <com.exazero.exainfinitewheel.ExaInfiniteWheel
         android:id="@+id/exaIWheel"
         app:exa_tick_count="21"
         app:exa_indicator_height="32dp"
