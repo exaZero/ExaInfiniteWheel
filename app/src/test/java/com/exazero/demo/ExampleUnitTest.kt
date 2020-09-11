@@ -1,4 +1,4 @@
-package com.exazero.exainfinitewheel
+package com.exazero.demo
 
 import org.junit.Test
 

@@ -1,3 +1,5 @@
 include ':ExaInfiniteWheel'
-include ':app'
+if (!System.env.JITPACK)
+    include ':app'
+
 rootProject.name = "ExaInfiniteWheel"

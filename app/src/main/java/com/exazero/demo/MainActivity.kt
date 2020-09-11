@@ -1,4 +1,4 @@
-package com.exazero.exainfinitewheel
+package com.exazero.demo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

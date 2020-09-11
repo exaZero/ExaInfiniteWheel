@@ -1,4 +1,4 @@
-package com.exazero.exainfinitewheel
+package com.exazero.demo
 
 import android.animation.ValueAnimator
 import android.content.Context
@@ -9,13 +9,10 @@ import android.util.AttributeSet
 import android.util.Log
 import android.view.GestureDetector
 import android.view.MotionEvent
-import android.view.ViewConfiguration
 import android.widget.FrameLayout
 import android.widget.Scroller
-import java.lang.Math.round
 import kotlin.math.abs
 import kotlin.math.roundToInt
-import kotlin.math.truncate
 
 /**
  *   Created by jazcorra96 on 9/9/2020
