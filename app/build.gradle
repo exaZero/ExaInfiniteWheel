@@ -7,7 +7,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.exazero.exainfinitewheel"
+        applicationId "com.exazero.exainfinitewheel.demo"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
