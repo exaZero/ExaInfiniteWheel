@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="exa_tick_count">7</integer>
+    <color name="exa_tick_color">#ffffff</color>
+    <dimen name="exa_tick_max_height">16dp</dimen>
+    <dimen name="exa_tick_width">2dp</dimen>
+    <color name="exa_indicator_color">#C80000</color>
+    <dimen name="exa_indicator_height">24dp</dimen>
+    <bool name="exa_infinite">true</bool>
+</resources>

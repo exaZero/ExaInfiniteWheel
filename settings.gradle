@@ -1,0 +1,3 @@
+include ':ExaInfiniteWheel'
+include ':app'
+rootProject.name = "ExaInfiniteWheel"

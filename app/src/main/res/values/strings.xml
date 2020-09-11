@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExaInfiniteWheel</string>
+    <string name="wheel_status">status: %s</string>
+    <string name="wheel_position">position = %d</string>
+</resources>

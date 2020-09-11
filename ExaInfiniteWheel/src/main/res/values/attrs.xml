@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExaInfiniteWheel">
+        <attr name="exa_tick_count" format="integer"/>
+        <attr name="exa_tick_color" format="reference"/>
+        <attr name="exa_tick_max_height" format="dimension"/>
+        <attr name="exa_tick_width" format="dimension"/>
+        <attr name="exa_indicator_color" format="reference"/>
+        <attr name="exa_indicator_height" format="dimension"/>
+        <attr name="exa_infinite" format="boolean"/>
+    </declare-styleable>
+</resources>
