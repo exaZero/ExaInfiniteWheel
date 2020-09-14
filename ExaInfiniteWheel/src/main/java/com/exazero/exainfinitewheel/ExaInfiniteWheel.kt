@@ -134,7 +134,7 @@ class ExaInfiniteWheel @JvmOverloads constructor(context: Context,
     }
 
     private fun computeCurrentPosition(){
-        position = (accumulatedScroll / tickCount).roundToInt()
+        position = (accumulatedScroll / tickSpace).roundToInt()
     }
 
 
